@@ -1,4 +1,4 @@
-## ngebucin
+## Bucin
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/59561245/156991502-c516e826-b328-484f-b926-0133ac1edd0f.gif">
@@ -16,4 +16,4 @@ Bucin Dulu Biar Ga Stres 🥴
 ```
 
 # Demo Site
- <a href="https://may.muhamadramdani.com/">https://may.muhamadramdani.com/</a>
+ <a href="https://bucin.muhamadramdani.com/">https://bucin.muhamadramdani.com/</a>
